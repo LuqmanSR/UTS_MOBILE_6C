@@ -1,0 +1,2 @@
+id/rdev/Luqman180900756C/BuildConfig.java
+ id.rdev.Luqman180900756C.BuildConfig
